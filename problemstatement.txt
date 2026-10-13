@@ -1,0 +1,9 @@
+Assignment 6: MLP for Heart Disease Prediction
+Question: Download the Heart Disease dataset and compare two Multi-Layer Perceptron architectures.
+Requirements
+
+- Preprocess and split the dataset appropriately.
+- Design two MLP architectures with different hidden-layer configurations.
+- Train and evaluate both networks.
+- Compare Accuracy, Precision, Recall, and F1 Score.
+- Conclude which architecture performs better and justify the decision.
